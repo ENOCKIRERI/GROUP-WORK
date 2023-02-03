@@ -13,3 +13,9 @@
    let uniquenames = [names];
    console.log(uniquenames);
    }
+   function reverse(str){
+    let string=str.split (' ');
+    reverse() .join('')
+    console.log(str);
+    reverse("Hello,world");
+   }
